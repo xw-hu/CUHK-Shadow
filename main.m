@@ -28,7 +28,7 @@ mask_root = {'mask_ADE', 'mask_KITTI', 'mask_MAP', 'mask_USR', 'mask_WEB'};
 type = 'val';
 
 mask_path = '../../CUHKshadow/';
-result_path = '/home/xwhu/PycharmProjects/FSDNet/ckpt/FSDNet_MAP/(FSDNet_MAP) CUHKShadow_prediction_30000/';
+result_path = '/home/xwhu/PycharmProjects/FSDNet/ckpt/FSDNet/(FSDNet) CUHKShadow_prediction_50000/';
 
 acc_final = zeros(length(mask_root));
 final_BER = zeros(length(mask_root));
