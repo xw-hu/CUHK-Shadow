@@ -1,4 +1,12 @@
-# CUHKShadow-Evaluation
+# CUHK-Shadow
+
+## CUHK-Shadow Dateset
+
+Due to the copyright issue, please send the email to "cuhkshadow@gmail.com" to obtain the download link.
+
+Note that you may not use this dataset for commercial purposes and if you alter, transform, or build upon this work, you may distribute the resulting work only under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) License.
+
+## CUHK-Shadow Evaluation
 
 This code is used to evaluate the results of shadow detection on CUHKShadow dataset. 
 
