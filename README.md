@@ -8,7 +8,7 @@ Note that you may not use this dataset for commercial purposes and if you alter,
 
 ## CUHK-Shadow Evaluation
 
-This code is used to evaluate the results of shadow detection on CUHK-Shadow dataset. 
+This code is used to evaluate the results of shadow detection on the CUHK-Shadow dataset. 
 
 ## Citation
 
