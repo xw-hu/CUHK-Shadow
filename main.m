@@ -5,7 +5,7 @@
 % This code is used for evaluating shadow detection results on CUHKShadow.
 % Feel free to use the code. Please cite the following papers when you use it
 %    [1] Xiaowei Hu, Tianyu Wang, Chi-Wing Fu, Yitong Jiang, Qiong Wang, and Pheng-Ann Heng. 
-%    "Revisiting Shadow Detection: A New Benchmark Dataset for Complex World." TIP 2020.
+%    "Revisiting Shadow Detection: A New Benchmark Dataset for Complex World." IEEE TIP, 2021.
 %
 % (1) BER: ComputeBERonSet.m
 % This code is used for computing Balanced Error Rate (BER)
