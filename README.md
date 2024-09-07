@@ -8,9 +8,14 @@ Note that you may not use this dataset for commercial purposes and if you alter,
 
 For commercial use, contact xw.hu@foxmail.com for obtaining a commerical license.
 
+## Results
+
+Please find the results of all compared shadow detection methods at [https://github.com/xw-hu/Unveiling-Deep-Shadows](https://github.com/xw-hu/Unveiling-Deep-Shadows).
+
 ## CUHK-Shadow Evaluation
 
 This code is used to evaluate the results of shadow detection on the CUHK-Shadow dataset. 
+Please find the Python version at [https://github.com/xw-hu/Unveiling-Deep-Shadows](https://github.com/xw-hu/Unveiling-Deep-Shadows).
 
 ## Citation
 ```
