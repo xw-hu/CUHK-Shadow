@@ -15,6 +15,7 @@ Please find the results of all compared shadow detection methods at [https://git
 ## CUHK-Shadow Evaluation
 
 This code is used to evaluate the results of shadow detection on the CUHK-Shadow dataset. 
+
 Please find the Python version at [https://github.com/xw-hu/Unveiling-Deep-Shadows](https://github.com/xw-hu/Unveiling-Deep-Shadows).
 
 ## Citation
