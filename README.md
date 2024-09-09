@@ -18,7 +18,9 @@ This code is used to evaluate the results of shadow detection on the CUHK-Shadow
 
 Please find the Python version at [https://github.com/xw-hu/Unveiling-Deep-Shadows](https://github.com/xw-hu/Unveiling-Deep-Shadows).
 
-## Citation
+
+## Bibtex
+If you find our work, dataset, code, or results useful, please consider citing our paper as follows:
 ```
 @article{hu2021revisiting,                      
    title={Revisiting Shadow Detection: A New Benchmark Dataset for Complex World},                   
